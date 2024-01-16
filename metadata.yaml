@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '26786'
     url: http://www.gutenberg.org/2009/agents/26786
     wikipedia: https://en.wikipedia.org/wiki/Virgil_Finlay
+covers:
+- cover_type: archival
+  image_path: 72397-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Bradley, Marion Zimmer
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51368
     wikipedia: https://en.wikipedia.org/wiki/Ted_White_%28author%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72397#Phoenix
 gutenberg_issued: '2023-12-13'
 gutenberg_type: Text
 identifiers:
